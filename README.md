@@ -30,7 +30,7 @@
 - ### DOM Manipulation
 - ### Events
 - ### Advanced Topics
-    - Promises
+    - [Promises](https://www.youtube.com/watch?v=Xs1EMmBLpn4)
     - Async Await
     - Fetch API
     - [Event Loop](https://www.youtube.com/watch?v=eiC58R16hb8&t=23s) 
